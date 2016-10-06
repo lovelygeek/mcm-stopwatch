@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.Sprite;		import org.libspark.flartoolkit.*;	import org.papervision3d.*;		public class MyAR Sprite {				private var video:Video;		private var webcam:Camera;				private var flar		public function MyAR() {			// constructor code		}	}	}
